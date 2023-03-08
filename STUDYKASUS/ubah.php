@@ -55,21 +55,27 @@
     <form action ="" method="post">
         <input type="hidden" name="id" id="" value="<?= $student["id"]?>">
         <label for="">Nis</label>
+        <br>
         <input type="text" name="nis" id="" value="<?= $student["nis"]?>">
         <br>
         <label for="">Nama</label>
+        <br>
         <input type="text" name="nama" id="" value="<?= $student["nama"]?>">
         <br>
         <label for="">Rombel</label>
+        <br>
         <input type="text" name="rombel" id="" value="<?= $student["rombel"]?>">
         <br>
         <label for="">Rayon</label>
+        <br>
         <input type="text" name="rayon" id="" value="<?= $student["rayon"]?>">
         <br>
         <label for="">Status</label>
+        <br>
         <input type="text" name="status" id="" value="<?= $student["status"]?>">
         <br>
         <label for="">Hobi</label>
+        <br>
         <input type="text" name="hobi" id="" value="<?= $student["hobi"]?>">
         <br>
         <label for="">Alamat</label>
